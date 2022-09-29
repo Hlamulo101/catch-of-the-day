@@ -1,0 +1,7 @@
+{
+  "editor.formatOnType": false,
+  "editor.formatOnSave": false,
+  "editor.formatOnPaste": false,
+  "files.autoSave": "onFocusChange",
+  "window.autoDetectColorScheme": false
+}
